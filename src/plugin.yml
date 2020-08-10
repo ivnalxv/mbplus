@@ -1,0 +1,8 @@
+main: me.metaMockery.mobs.Main
+name: Mobs
+version: 1.0
+author: metaMockery
+
+commands:
+  mbp_item:
+  fly:
